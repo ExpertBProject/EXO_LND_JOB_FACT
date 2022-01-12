@@ -1,0 +1,9 @@
+﻿<?xml version="1.0"?>
+<Connection>
+  <!--<SQLSAP Server="SRV-SAP" Db="Yokohama_PT" DbUser="sa" DbPwd="B1Admin"/>
+  <FTP  URL="ftp://194.75.51.14/out/" Usuario="yokohama" Password="Ge5fC76Y"/>
+  <DI Server="SRV-EBOCA" LicenseServer="SRV-SAP:30000" database="Yokohama_PT" UserName="manager" Password="ebranco" DbPassword=" B1Admin " DbUserName="sa"/>-->
+
+  <DI Server="xper-test01:30015" LicenseServer="xper-test01:40000" database="SBOLANDE" UserName="mperiz" Password="M@rt1nN1c0" DbPassword="12eXo$18" DbUserName="B1SQLUSER" Ruta="E:\temp" UserOutlook="administracion@landesa.com" PassOutlook="KXhF3cPe"/>
+
+</Connection>
